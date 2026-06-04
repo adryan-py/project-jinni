@@ -1,11 +1,9 @@
-## bubblerchat
+## Project Jinnie
 
-Bubblerchat é uma rede social que resgata a essência e a experiência  
-online do começo das redes sociais, com modernidade, segurança,  
-autenticidade e a essência de "seja você mesmo".
+New description coming soon!
 
 ## Copyright
-      Copyright 2025-2026 Adryan Alcantara, "Projeto ShinyBubble" e "O Projeto Imagine"
+      Copyright 2025-2026 TeamImagine
       
       Licensed under the Apache License, Version 2.0 (the "License");  
       you may not use this file except in compliance with the License.  
