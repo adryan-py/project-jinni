@@ -1,0 +1,50 @@
+/* Button Style */
+.btn-register {
+    font-family: "Chakra Petch", sans-serif;
+    border: 1px solid var(--border);
+    transition: all 0.0s;
+    text-decoration: none;
+    padding: 0.8rem;
+    background: var(--btn-static);
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    cursor: pointer;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.4), 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.btn-register:hover {
+    background: var(--btn-hover);
+}
+
+.btn-register:active {
+    box-shadow: inset 0 2px 5px rgba(0,0,0,0.2);
+    transform: translateY(1px);
+}
+
+/* Header Web 2.0, Glossy Style*/
+header.top-bar {
+    background: var(--primary-glass);
+    border-bottom: 3px solid #4dc5ba;
+    padding: 0.2rem 4rem;
+    display: flex;
+    justify-content: space-between;
+    /*align-items: center;*/
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+header.top-bar .logo a, h1{
+    font-family: "Audiowide", sans-serif;
+    color: white;
+    font-size: 1.8rem;
+    margin: 0;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+    letter-spacing: -1px;
+    font-weight: 900;
+    text-decoration: none;
+}
